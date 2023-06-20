@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/selvik/demo-app
+  newTag: 8bcc8cbf7c3296efc9cd1edda8c18b5aee96c3c4
