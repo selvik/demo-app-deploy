@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/selvik/demo-app
-  newTag: latest
+  newTag: de3939a21b9426bc64df3f48cf92a56f86b7b995
